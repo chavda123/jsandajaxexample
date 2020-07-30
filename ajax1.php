@@ -10,6 +10,7 @@
 <div class="content"></div>
 <div id="newContent">
 </div>
+<?php echo "Ajax"; ?>
 <script>
 $.ajax({
 // the URL for the request
